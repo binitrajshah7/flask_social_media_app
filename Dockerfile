@@ -1,5 +1,5 @@
 #Flask Dockerfile with gunicorn
-FROM logitrack-base
+FROM python:3.9
 RUN mkdir /code
 WORKDIR /code
 COPY app.py /code/app.py
