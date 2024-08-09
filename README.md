@@ -13,7 +13,7 @@ The application allows users to:
 
 ### 1. Clone the repository
 ```bash
-    git clone
+    git clone https://github.com/binitrajshah7/flask_social_media_app.git
 ```
 
 ### Important Note:
