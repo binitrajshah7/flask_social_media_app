@@ -23,6 +23,7 @@ The application allows users to:
         secret_key="social_secret_key"
     
     2. Some of Below endpoints require authorization plesae add bearer token before hitting same. Create user doesn't asks for authenticaion.
+    3. You can find Postman Collection for the required APIs in the root directory itself.
 
 
 ### 2. Build and Run the Server with Docker
